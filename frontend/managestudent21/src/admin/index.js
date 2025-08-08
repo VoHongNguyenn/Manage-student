@@ -1,0 +1,12 @@
+export { default as AdminHomePage } from "./AdminHomePage.jsx";
+export { default as AdminDashboard } from "./AdminDashboard.jsx";
+export { default as AdminAccountsPage } from "./AdminAccountsPage.jsx";
+export { default as AdminStudentsPage } from "./AdminStudentsPage.jsx";
+export { default as AdminSingleStudentPage } from "./AdminSingleStudentPage.jsx";
+export { default as AdminSingleAccountPage } from "./AdminSingleAccountPage.jsx";
+export { default as AdminAddAccountPage } from "./AdminAddAccountPage.jsx";
+export { default as AdminUpdateAccountPage } from "./AdminUpdateAccountPage.jsx";
+export { default as AdminAddStudentPage } from "./AdminAddStudentPage.jsx";
+export { default as AdminUpdateStudentPage } from "./AdminUpdateStudentPage.jsx";
+export { default as AdminProfilePage } from "./AdminProfilePage.jsx";
+export { default as AdminEditProfilePage } from "./AdminEditProfilePage.jsx";
